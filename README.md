@@ -1,5 +1,5 @@
 # TheSnakeGame
-### A Classic Snake Game bound to invoke Nostalgia made using Java Swing. 🐍🎮 
+### A Classic Snake Game bound to invoke Nostalgia made using Java Swing. 🐍 🎮 
 
 Fork, clone, play and feel free to PR for any issues or new versions! 
 
